@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+ background: #051342;
+
+}
+.navbar{
+    max-width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   height: 80px;
+}
+.navbar ul{
+    padding-top: 10px;
+    display: flex;
+    gap: 50px;
+    list-style: none;
+   color: #fff;
+    text-transform: uppercase;
+}
+button{
+    margin-top: -5px;
+    height: 40px;
+    width: 100px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background-color: rgb(37, 37, 37);
+}
+button i{
+    margin-right: 8px;
+}
+.hero-img{
+    margin-top: 20px;
+    height: 700px;
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.subscribe-img{
+    margin-top: -120px;
+    margin-left: -100px;
+}
+.home,
+.bicep-section{
+    color: #051342;
+    text-align: center;
+    margin-top: 40px;
+}
+.home i{
+    margin-right: 15px;
+}
+ .bicep-section p{
+    margin-top: 10px;
+    line-height: 20px;
+    font-size: 19px;
+ }
+ .cirlce-section{
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: flex;
+ }
+ .cirlce-section p{
+    max-width: 250px;
+    margin-top: -50px;
+    font-size: 15px;
+    color: grey;
+ }
+ .cirlce-section h3{
+    margin-top: 10px;
+ }
+ .left img{
+    margin-top: 10px;
+ }
+ .circle-img{
+    background-color: #051342;
+    border-radius: 60%;
+    height: 300px;
+    margin-top: 50px;
+ }
+ .circle-img img{
+    max-width: 300px;
+ }
+ .left{
+    margin-right: 20px;
+ }
+ .right{
+    margin-left: 50px;
+ }
+ .right h3,
+ .right p{
+    margin-left: 50px;
+ }
+ .right img{
+    margin-left: -60px;
+ }
+ .about-section{
+    margin-top: 70px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .about-section p{
+    max-width: 520px;
+    margin-top: 30px;
+    color: grey;
+ }
+ .about-section h3{
+    margin-top: 20px;
+    color: #051342;
+ }
+ .area p{
+    margin-top: 5px !important;
+ }
+ .about-section ul li{
+    margin-top: 10px;
+ }
+ .download{
+    display: flex;
+max-width: 1500px;
+ }
+ .download-section{
+    display: flex;
+    justify-content: space-between;
+ }
+ .download-section img{
+    min-width: 1495px;
+    margin-top: 50px;
+ }
+ .phone{
+    display: flex;
+    margin-left: -540px;
+    padding-top: 10px;
+ }
+ .phone_1{
+     margin-top: 50px;
+ }
+ .fitness{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+ }
+ .fitness h2,
+ .fitness h3{
+color: #051342;
+ }
+ .fitness p{
+    color: grey;
+    margin-top: 10px;
+ }
+ .fitness h3{
+    margin-top: 60px;
+ }
+ .discover{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .discover h4{
+    margin-left: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+ }
+ .discover p{
+    margin-left: 20px;
+    max-width: 240px;
+    text-align: center;
+    color: gray;
+    line-height: 22px;
+ }
+ .second{
+    margin-left: -60px;
+ }
+ .second h4{
+    margin-left: 120px;
+ }
+ .second p{
+    margin-left: 80px;
+ }
+ .footer-sec img{
+    margin-top: 50px;
+    min-width: 1495px;
+ }
+ 
